@@ -1,0 +1,26 @@
+{
+    "short_name": "ERPCHEF",
+    "name": "ERPCHEF",
+    "description": "ERPCHEF",
+    "start_url": "/dashboard",
+    "background_color": "#006fb7",
+    "display": "standalone",
+    "theme_color": "#006fb7",
+    "icons": [
+        {
+          "src": "/public/backend/pwa/logo.png",
+          "type": "image/png",
+          "sizes": "374x374",
+          "purpose" : "any maskable"
+        },
+        {
+          "src": "/public/backend/pwa/logo.png",
+          "type": "image/png",
+          "sizes": "374x374",
+          "purpose" : "any maskable"
+        }
+      ]
+  }
+
+
+  
